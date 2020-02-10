@@ -1,0 +1,94 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+
+#header2-n H1 {
+  color: #000000;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 60px;
+}
+#header2-n P {
+  font-size: 72px;
+  text-align: right;
+}
+#content4-m P {
+  text-align: center;
+}
+#menu-d .navbar-toggler {
+  color: #000;
+}
+
+
+
+
+#menu-d .navbar-toggler {
+  color: #000;
+}
+#testimonials1-x .mbr-section-title {
+  text-align: right;
+  font-size: 72px;
+}
+#testimonials1-x .card-block EM {
+  font-family: 'Playfair Display', sans-serif;
+}
+#testimonials1-x .card-footer > div {
+  font-family: 'Open Sans', sans-serif;
+}
+#testimonials1-x .card-block {
+  font-size: 16px;
+}
+#testimonials1-12 .mbr-section-title {
+  text-align: right;
+  font-size: 30px;
+}
+#testimonials1-12 .card-block EM {
+  font-family: 'Playfair Display', sans-serif;
+}
+#testimonials1-12 .card-footer > div {
+  font-family: 'Open Sans', sans-serif;
+}
+#testimonials1-12 .card-block {
+  font-size: 16px;
+}
+
+
+#menu-d .navbar-toggler {
+  color: #000;
+}
+#testimonials1-15 .mbr-section-title {
+  text-align: right;
+  font-size: 30px;
+}
+#testimonials1-15 .card-block EM {
+  font-family: 'Playfair Display', sans-serif;
+}
+#testimonials1-15 .card-footer > div {
+  font-family: 'Open Sans', sans-serif;
+}
+#testimonials1-15 .card-block {
+  font-size: 16px;
+}
+
+
+#menu-d .navbar-toggler {
+  color: #000;
+}
+#testimonials1-17 .mbr-section-title {
+  text-align: right;
+  font-size: 30px;
+}
+#testimonials1-17 .card-block EM {
+  font-family: 'Playfair Display', sans-serif;
+}
+#testimonials1-17 .card-footer > div {
+  font-family: 'Open Sans', sans-serif;
+}
+#testimonials1-17 .card-block {
+  font-size: 16px;
+}
+#menu-d .navbar-toggler {
+  color: #000;
+}
+#menu-d .navbar-toggler {
+  color: #000;
+}
