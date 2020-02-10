@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "poesie.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -407,14 +407,14 @@
           "header": "“Beauty is not in the face; <br>beauty is a light in the heart.”<br><br>",
           "items": [
             {
-              "authorName": "<p>Ibn Taymiyyah</p>",
+              "authorName": "Rumi",
               "authorBio": "",
-              "text": "<p>“Au Paradis, il n'y a ni soleil ni lune, ni jour ni nuit, mais tu reconnaitras le matin et le soir grâce à une lumière provenant du Trône”</p>"
+              "text": "<p>“Jamais en vérité, l'amant ne cherche sans que le cherche sa bien-aimée. Le Jour et la Nuit sont ennemis en apparence, mais tous deux, en fait, poursuivent un seul dessein ”</p>"
             },
             {
-              "authorName": "",
-              "authorBio": "",
-              "text": ""
+              "authorName": "Une vie",
+              "authorBio": "Guy de Maupassant",
+              "text": "“Et elle sentait entre elle et lui comme un voile, un obstacle, s'appercevant pour la première fois que deux personnes ne se pénètrent jamais jusqu'à l'âme, jusqu'au fond des pensées, qu'elles marchent côte à côte, enlacées parfois, mais non mêlées, et que l'être moral de chacun de nous reste eternellement seul par la vie”"
             },
             {
               "authorName": "Bobin",
@@ -617,14 +617,14 @@
           "header": "Islam is peace : read and rest<br><br>",
           "items": [
             {
-              "authorName": "<p>Ibn Taymiyyah</p>",
+              "authorName": "Rumi",
               "authorBio": "",
-              "text": "<p>“Au Paradis, il n'y a ni soleil ni lune, ni jour ni nuit, mais tu reconnaitras le matin et le soir grâce à une lumière provenant du Trône”</p>"
+              "text": "<p>“Jamais en vérité, l'amant ne cherche sans que le cherche sa bien-aimée. Le Jour et la Nuit sont ennemis en apparence, mais tous deux, en fait, poursuivent un seul dessein ”</p>"
             },
             {
-              "authorName": "",
-              "authorBio": "",
-              "text": ""
+              "authorName": "Une vie",
+              "authorBio": "Guy de Maupassant",
+              "text": "“Et elle sentait entre elle et lui comme un voile, un obstacle, s'appercevant pour la première fois que deux personnes ne se pénètrent jamais jusqu'à l'âme, jusqu'au fond des pensées, qu'elles marchent côte à côte, enlacées parfois, mais non mêlées, et que l'être moral de chacun de nous reste eternellement seul par la vie”"
             },
             {
               "authorName": "Bobin",
@@ -798,14 +798,14 @@
           "header": "“Beauty is not in the face; <br>beauty is a light in the heart.”<br><br>",
           "items": [
             {
-              "authorName": "<p>Ibn Taymiyyah</p>",
+              "authorName": "Rumi",
               "authorBio": "",
-              "text": "<p>“Au Paradis, il n'y a ni soleil ni lune, ni jour ni nuit, mais tu reconnaitras le matin et le soir grâce à une lumière provenant du Trône”</p>"
+              "text": "<p>“Jamais en vérité, l'amant ne cherche sans que le cherche sa bien-aimée. Le Jour et la Nuit sont ennemis en apparence, mais tous deux, en fait, poursuivent un seul dessein ”</p>"
             },
             {
-              "authorName": "",
-              "authorBio": "",
-              "text": ""
+              "authorName": "Une vie",
+              "authorBio": "Guy de Maupassant",
+              "text": "“Et elle sentait entre elle et lui comme un voile, un obstacle, s'appercevant pour la première fois que deux personnes ne se pénètrent jamais jusqu'à l'âme, jusqu'au fond des pensées, qu'elles marchent côte à côte, enlacées parfois, mais non mêlées, et que l'être moral de chacun de nous reste eternellement seul par la vie”"
             },
             {
               "authorName": "Bobin",
