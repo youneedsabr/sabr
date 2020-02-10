@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
-@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700&subset=latin,cyrillic);
+
 
 #header2-n H1 {
   color: #000000;
@@ -14,16 +15,32 @@
 #content4-m P {
   text-align: center;
 }
-#menu-d .navbar-toggler {
-  color: #000;
+#dropdown-menu-19 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-19 .nav .link,
+#dropdown-menu-19 .dropdown-item {
+  font-size: 0.8em;
+  color: #000000;
+  font-family: 'Open Sans', sans-serif;
+}
+#dropdown-menu-19 .navbar,
+#dropdown-menu-19 .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-19 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-19 .dropdown-menu a:hover,
+#dropdown-menu-19 .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-19 .navbar-toggler {
+  color: #000000;
 }
 
 
 
 
-#menu-d .navbar-toggler {
-  color: #000;
-}
+
 #testimonials1-x .mbr-section-title {
   text-align: right;
   font-size: 72px;
@@ -50,11 +67,30 @@
 #testimonials1-12 .card-block {
   font-size: 16px;
 }
-
-
-#menu-d .navbar-toggler {
-  color: #000;
+#dropdown-menu-19 .hide-buttons [data-button] {
+  display: none !important;
 }
+#dropdown-menu-19 .nav .link,
+#dropdown-menu-19 .dropdown-item {
+  font-size: 0.8em;
+  color: #000000;
+  font-family: 'Open Sans', sans-serif;
+}
+#dropdown-menu-19 .navbar,
+#dropdown-menu-19 .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-19 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-19 .dropdown-menu a:hover,
+#dropdown-menu-19 .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-19 .navbar-toggler {
+  color: #000000;
+}
+
+
+
 #testimonials1-15 .mbr-section-title {
   text-align: right;
   font-size: 30px;
@@ -68,11 +104,30 @@
 #testimonials1-15 .card-block {
   font-size: 16px;
 }
-
-
-#menu-d .navbar-toggler {
-  color: #000;
+#dropdown-menu-19 .hide-buttons [data-button] {
+  display: none !important;
 }
+#dropdown-menu-19 .nav .link,
+#dropdown-menu-19 .dropdown-item {
+  font-size: 0.8em;
+  color: #000000;
+  font-family: 'Open Sans', sans-serif;
+}
+#dropdown-menu-19 .navbar,
+#dropdown-menu-19 .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-19 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-19 .dropdown-menu a:hover,
+#dropdown-menu-19 .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-19 .navbar-toggler {
+  color: #000000;
+}
+
+
+
 #testimonials1-17 .mbr-section-title {
   text-align: right;
   font-size: 30px;
@@ -86,9 +141,68 @@
 #testimonials1-17 .card-block {
   font-size: 16px;
 }
-#menu-d .navbar-toggler {
-  color: #000;
+#dropdown-menu-19 .hide-buttons [data-button] {
+  display: none !important;
 }
-#menu-d .navbar-toggler {
-  color: #000;
+#dropdown-menu-19 .nav .link,
+#dropdown-menu-19 .dropdown-item {
+  font-size: 0.8em;
+  color: #000000;
+  font-family: 'Open Sans', sans-serif;
+}
+#dropdown-menu-19 .navbar,
+#dropdown-menu-19 .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-19 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-19 .dropdown-menu a:hover,
+#dropdown-menu-19 .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-19 .navbar-toggler {
+  color: #000000;
+}
+
+#dropdown-menu-19 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-19 .nav .link,
+#dropdown-menu-19 .dropdown-item {
+  font-size: 0.8em;
+  color: #000000;
+  font-family: 'Open Sans', sans-serif;
+}
+#dropdown-menu-19 .navbar,
+#dropdown-menu-19 .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-19 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-19 .dropdown-menu a:hover,
+#dropdown-menu-19 .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-19 .navbar-toggler {
+  color: #000000;
+}
+
+#dropdown-menu-19 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-19 .nav .link,
+#dropdown-menu-19 .dropdown-item {
+  font-size: 0.8em;
+  color: #000000;
+  font-family: 'Open Sans', sans-serif;
+}
+#dropdown-menu-19 .navbar,
+#dropdown-menu-19 .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-19 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-19 .dropdown-menu a:hover,
+#dropdown-menu-19 .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-19 .navbar-toggler {
+  color: #000000;
 }
